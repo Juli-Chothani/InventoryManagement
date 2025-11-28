@@ -1,0 +1,22 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Publish
+publish/
+
+# NuGet
+*.nupkg
+packages/
+
+# Other
+*.dbmdl
+*.jfm
