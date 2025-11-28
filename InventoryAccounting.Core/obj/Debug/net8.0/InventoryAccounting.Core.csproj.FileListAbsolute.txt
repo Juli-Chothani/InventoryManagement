@@ -1,0 +1,24 @@
+C:\Juli\InventoryAccounting.API\InventoryAccounting.Core\bin\Debug\net8.0\InventoryAccounting.Core.deps.json
+C:\Juli\InventoryAccounting.API\InventoryAccounting.Core\bin\Debug\net8.0\InventoryAccounting.Core.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.Core\bin\Debug\net8.0\InventoryAccounting.Core.pdb
+C:\Juli\InventoryAccounting.API\InventoryAccounting.Core\obj\Debug\net8.0\InventoryAccounting.Core.csproj.AssemblyReference.cache
+C:\Juli\InventoryAccounting.API\InventoryAccounting.Core\obj\Debug\net8.0\InventoryAccounting.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Juli\InventoryAccounting.API\InventoryAccounting.Core\obj\Debug\net8.0\InventoryAccounting.Core.AssemblyInfoInputs.cache
+C:\Juli\InventoryAccounting.API\InventoryAccounting.Core\obj\Debug\net8.0\InventoryAccounting.Core.AssemblyInfo.cs
+C:\Juli\InventoryAccounting.API\InventoryAccounting.Core\obj\Debug\net8.0\InventoryAccounting.Core.csproj.CoreCompileInputs.cache
+C:\Juli\InventoryAccounting.API\InventoryAccounting.Core\obj\Debug\net8.0\InventoryAccounting.Core.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.Core\obj\Debug\net8.0\refint\InventoryAccounting.Core.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.Core\obj\Debug\net8.0\InventoryAccounting.Core.pdb
+C:\Juli\InventoryAccounting.API\InventoryAccounting.Core\obj\Debug\net8.0\ref\InventoryAccounting.Core.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.Core\bin\Debug\net8.0\InventoryAccounting.Core.deps.json
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.Core\bin\Debug\net8.0\InventoryAccounting.Core.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.Core\bin\Debug\net8.0\InventoryAccounting.Core.pdb
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.Core\obj\Debug\net8.0\InventoryAccounting.Core.csproj.AssemblyReference.cache
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.Core\obj\Debug\net8.0\InventoryAccounting.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.Core\obj\Debug\net8.0\InventoryAccounting.Core.AssemblyInfoInputs.cache
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.Core\obj\Debug\net8.0\InventoryAccounting.Core.AssemblyInfo.cs
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.Core\obj\Debug\net8.0\InventoryAccounting.Core.csproj.CoreCompileInputs.cache
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.Core\obj\Debug\net8.0\InventoryAccounting.Core.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.Core\obj\Debug\net8.0\refint\InventoryAccounting.Core.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.Core\obj\Debug\net8.0\InventoryAccounting.Core.pdb
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.Core\obj\Debug\net8.0\ref\InventoryAccounting.Core.dll

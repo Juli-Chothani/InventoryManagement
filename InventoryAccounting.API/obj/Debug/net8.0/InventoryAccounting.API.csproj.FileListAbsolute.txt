@@ -1,0 +1,128 @@
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\appsettings.json
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.API.staticwebassets.endpoints.json
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.API.exe
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.API.deps.json
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.API.runtimeconfig.json
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.API.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.API.pdb
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\Dapper.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.Core.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.Infrastructure.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.Service.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.Core.pdb
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.Infrastructure.pdb
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.Service.pdb
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.csproj.AssemblyReference.cache
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.AssemblyInfoInputs.cache
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.AssemblyInfo.cs
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.csproj.CoreCompileInputs.cache
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\scopedcss\bundle\InventoryAccounting.API.styles.css
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\Inventor.5C287B5E.Up2Date
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\refint\InventoryAccounting.API.dll
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.pdb
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.genruntimeconfig.cache
+C:\Juli\InventoryAccounting.API\InventoryAccounting.API\obj\Debug\net8.0\ref\InventoryAccounting.API.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\appsettings.json
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.API.staticwebassets.endpoints.json
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.API.exe
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.API.deps.json
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.API.runtimeconfig.json
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.API.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.API.pdb
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\Dapper.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.Core.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.Infrastructure.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.Service.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.Core.pdb
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.Infrastructure.pdb
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\bin\Debug\net8.0\InventoryAccounting.Service.pdb
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.csproj.AssemblyReference.cache
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.AssemblyInfoInputs.cache
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.AssemblyInfo.cs
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.csproj.CoreCompileInputs.cache
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\scopedcss\bundle\InventoryAccounting.API.styles.css
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\Inventor.5C287B5E.Up2Date
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\refint\InventoryAccounting.API.dll
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.pdb
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\InventoryAccounting.API.genruntimeconfig.cache
+C:\Juli Chothani\InventoryAccounting\InventoryAccounting.API\obj\Debug\net8.0\ref\InventoryAccounting.API.dll
